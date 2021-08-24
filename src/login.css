@@ -1,0 +1,39 @@
+body{
+    overflow: hidden;
+}
+.login{
+    display: grid;
+    place-items: center;
+    background-color: #3fc350;
+    height: 110vh;
+    width: 110vw;
+    margin-left: -5vw;
+    margin-top: -5vh;
+}
+.login__container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(182, 212, 211);
+    border-radius: 10px;
+    box-shadow: 2px 3px 5px gray;
+    padding: 40px;
+}
+.login__container>button{
+    background-color: #3fc350;
+    font-size: larger;
+    font-weight: bolder;
+    border: 2px solid lightcoral;
+    border-radius: 10px;
+}
+
+.login__container>h3{
+    font-weight: 400;
+}
+.login__container>.img{
+    background-image: url("logo.svg");
+    background-size: cover;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
