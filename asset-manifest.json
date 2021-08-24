@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WhatsAppClone/static/css/main.c6f17d54.chunk.css",
+    "main.js": "/WhatsAppClone/static/js/main.4dc72dd0.chunk.js",
+    "main.js.map": "/WhatsAppClone/static/js/main.4dc72dd0.chunk.js.map",
+    "runtime-main.js": "/WhatsAppClone/static/js/runtime-main.e2cbee3f.js",
+    "runtime-main.js.map": "/WhatsAppClone/static/js/runtime-main.e2cbee3f.js.map",
+    "static/js/2.b93e2cfb.chunk.js": "/WhatsAppClone/static/js/2.b93e2cfb.chunk.js",
+    "static/js/2.b93e2cfb.chunk.js.map": "/WhatsAppClone/static/js/2.b93e2cfb.chunk.js.map",
+    "static/js/3.f7da0ce8.chunk.js": "/WhatsAppClone/static/js/3.f7da0ce8.chunk.js",
+    "static/js/3.f7da0ce8.chunk.js.map": "/WhatsAppClone/static/js/3.f7da0ce8.chunk.js.map",
+    "index.html": "/WhatsAppClone/index.html",
+    "static/css/main.c6f17d54.chunk.css.map": "/WhatsAppClone/static/css/main.c6f17d54.chunk.css.map",
+    "static/js/2.b93e2cfb.chunk.js.LICENSE.txt": "/WhatsAppClone/static/js/2.b93e2cfb.chunk.js.LICENSE.txt",
+    "static/media/Chat.css": "/WhatsAppClone/static/media/bg.bded4f44.png",
+    "static/media/login.css": "/WhatsAppClone/static/media/logo.3c500401.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2cbee3f.js",
+    "static/js/2.b93e2cfb.chunk.js",
+    "static/css/main.c6f17d54.chunk.css",
+    "static/js/main.4dc72dd0.chunk.js"
+  ]
+}
